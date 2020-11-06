@@ -13,3 +13,7 @@ SO THAT I can manage my time effectively
 ## Usage
 Screenshots: 
 ![work day planner picture](https://i.imgur.com/ckgYg7X.png)
+
+
+## Link to App: 
+https://codyrobbins99.github.io/work-day-planner/
